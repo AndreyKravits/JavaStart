@@ -41,6 +41,7 @@ class Dog extends Animals {
         return false;
     }
 
+
     @Override
     public boolean jump(int height) {
         if (this.maxJumpDistance >= height) {
