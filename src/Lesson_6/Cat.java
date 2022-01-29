@@ -1,5 +1,6 @@
 package Lesson_6;
 
+
 class Cat extends Animals {
 
     public static final int MAX_RUN = 500;

@@ -28,6 +28,7 @@ public class Test {
             System.out.println(t.swim(random.nextInt(300)));
         }
 
+
         System.out.println(Animals.getCount());
         System.out.println(Cat.getCount());
         System.out.println(Dog.getCount());
