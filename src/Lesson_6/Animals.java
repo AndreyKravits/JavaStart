@@ -2,6 +2,7 @@ package Lesson_6;
 
 public abstract class Animals {
 
+
     private static int count;
 
     public static int getCount(){
